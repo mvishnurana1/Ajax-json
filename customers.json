@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1, 
+        "name": "Johny Bravo", 
+        "company": "123 Designs",
+         "phone": "444-555-6658"
+    }, 
+
+    {
+        "id": 2, 
+        "name": "John Cena", 
+        "company": "Best Consultants",
+         "phone": "444-555-6658"
+    }, 
+
+    {
+        "id": 3, 
+        "name": "Steve Smith", 
+        "company": "Integrant LLC.",
+         "phone": "444-555-6658"
+    }, 
+
+    {
+        "id": 4, 
+        "name": "Usmaan Khwaja", 
+        "company": "Kloud Computing",
+         "phone": "444-555-6658"
+    }
+]
